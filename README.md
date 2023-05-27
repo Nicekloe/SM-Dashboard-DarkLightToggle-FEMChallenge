@@ -66,13 +66,13 @@ Areas that I want to continue focusing on in future projects :
 
 ### Useful resources
 
-- [Example resource 1](https://www.youtube.com/watch?v=krfUjg0S2uI) - This tutorial guided me all along the website building process. I really liked the way the tutor coded-real-life and explained what she was doing as she went.
+- [Resource 1](https://www.youtube.com/watch?v=krfUjg0S2uI) - This tutorial guided me all along the website building process. I really liked the way the tutor coded-real-life and explained what she was doing as she went.
 
 ## Author
 
 - Website - [Eunice Kloe](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Nicekloe)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/Nicekloe)
 
 
 ## Acknowledgments
-Credit goes to the @thecodercoder for the complete and amazing Youtube tutorial on this.
+Credit goes to the https://github.com/thecodercoder for the complete and amazing Youtube tutorial on this.
