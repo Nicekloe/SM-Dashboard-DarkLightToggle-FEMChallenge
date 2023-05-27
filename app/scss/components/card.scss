@@ -3,7 +3,6 @@
 .cards{
     display: grid;
     grid-template-columns: 1fr;
-    
     gap: rem(30);
 
     @include breakpoint(medium){
@@ -78,6 +77,7 @@
     &__subtitle{
         font-size: rem(14);
         font-weight: 700;
+        color: var(--text-color2);
     }
 
     &__icon{
@@ -103,6 +103,7 @@
     &__username{
         font-size: rem(12);
         font-weight: bold;
+        color: var(--text-color2);
 
     }
 
@@ -135,7 +136,6 @@
         font-weight: normal;
         color: var(--text-color2);
         text-transform: uppercase;
-        //margin-top: rem(9);
 
     }
 
@@ -161,7 +161,7 @@
     }
 
     &__number{
-        margin-right: rem(4);
+        //margin-right: rem(4);
     }
     
 }
