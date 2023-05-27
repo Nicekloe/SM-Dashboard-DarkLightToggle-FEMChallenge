@@ -31,7 +31,7 @@ By completing this challenge, users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/Nicekloe/SM-Dashboard-DarkLightToggle-FEMChallenge)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://smdasboardfemchallenge.netlify.app/)
 
 
 ### Built with
@@ -70,7 +70,7 @@ Areas that I want to continue focusing on in future projects :
 
 ## Author
 
-- Website - [Eunice Kloe](https://www.your-site.com)
+- Website - [Eunice Kloe](https://smdasboardfemchallenge.netlify.app/)
 - Frontend Mentor - (https://www.frontendmentor.io/profile/Nicekloe)
 
 
