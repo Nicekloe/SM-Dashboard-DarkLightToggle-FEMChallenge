@@ -1,0 +1,7 @@
+/*Into this file, we're going to load all the other
+styles froms the component, globals and utils indexes
+files, such that we've them as a whole here. This is for 
+organisation sake.*/
+
+@use'globals';
+@use 'components';
