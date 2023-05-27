@@ -16,7 +16,7 @@ This is a solution to the [Social media dashboard with theme switcher challenge 
 
 
 ## Overview
-This challenge was about building out the Social Media Dashboard and get it looking as close to the FEM design as possible.
+This challenge was about building up the Social Media Dashboard and get it looking as close to the FEM design as possible.
 Link to design on FrontEnd Mentor website (https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H)
 
 ### The challenge
