@@ -30,8 +30,8 @@ By completing this challenge, users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Nicekloe/SM-Dashboard-DarkLightToggle-FEMChallenge)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Nicekloe/SM-Dashboard-DarkLightToggle-FEMChallenge)
+- Live Site URL: [Live site URL](https://your-live-site-url.com)
 
 
 ### Built with
