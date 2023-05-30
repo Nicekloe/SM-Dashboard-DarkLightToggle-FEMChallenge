@@ -61,7 +61,7 @@ working through this project, I learnt a lot of things, but below are some of th
 Areas that I want to continue focusing on in future projects :
 - Using Javascript functions to interact with the DOM
 - The BEM model
-- 
+- Fix the desktop display of the dashboard (should have the four cards on one line and the 8 smaller-cards on 02 lines)
 
 
 ### Useful resources
